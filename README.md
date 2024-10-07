@@ -1,3 +1,6 @@
+⚠️UPOZORENJE⚠️
+Da biste instalirali Viber Pro morate prvo obrisati originalni Viber sa Google Playa. Istorija ćaskanja se NE MOŽE preneti sa originalnog na modovani Viber!
+
 Viber Pro je modovani klijent Viber aplikacije sa dodatnim mogućnostima koje vam obični Viber ne nudi.
 Ovo je lista svih opcija:
 1. Vidite obrisane poruke. Radi u privatnim chatovima i grupama sa brojevima, samo tekstualne, slikovne i video poruke su označene sa "*Obrisano*")
