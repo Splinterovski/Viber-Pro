@@ -1,5 +1,5 @@
 ⚠️UPOZORENJE⚠️
-Da biste instalirali Viber Pro morate prvo obrisati originalni Viber sa Google Playa. Istorija ćaskanja se NE MOŽE preneti sa originalnog na modovani Viber!
+Da biste instalirali Viber Pro morate prvo obrisati originalni Viber sa Google Playa. Istorija ćaskanja se NE MOŽE preneti sa originalnog na modovani Viber i obrnuto!
 
 Nakon što preuzmete Viber_Pro.zip potrebno je da ga preimenujete u .apk da biste ga instalirali.
 
