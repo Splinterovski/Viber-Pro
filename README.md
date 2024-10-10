@@ -25,4 +25,4 @@ Instangram: https://www.instagram.com/splinterovski?igsh=YzljYTk1ODg3Zg==
 
 TikTok: https://www.tiktok.com/@splinter_packovski?_t=8qQXHUhc4xi&_r=1
 
-P. S. Serb Games u nedelju u 3😉
+P. S. - Serb Games u nedelju u 3😉
