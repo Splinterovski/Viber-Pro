@@ -21,3 +21,5 @@ Podržite moj rad tako što ćete me zapratiti na svim mogućim socijalno društ
 
 YouTube: https://youtube.com/@splinter_packovski
 Instangram: https://www.instagram.com/splinterovski?igsh=YzljYTk1ODg3Zg==
+
+P. S. Serb Games u nedelju u 3😉
