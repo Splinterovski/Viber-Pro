@@ -18,3 +18,6 @@ Ovo je lista svih opcija:
 9. Random spam režim - brzo i lako spamujte nasumičan tekst.
 
 Podržite moj rad tako što ćete me zapratiti na svim mogućim socijalno društvenim mrežama!😃
+
+YouTube: https://youtube.com/@splinter_packovski
+Instangram: https://www.instagram.com/splinterovski?igsh=YzljYTk1ODg3Zg==
