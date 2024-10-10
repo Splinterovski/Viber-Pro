@@ -25,4 +25,10 @@ Instangram: https://www.instagram.com/splinterovski?igsh=YzljYTk1ODg3Zg==
 
 TikTok: https://www.tiktok.com/@splinter_packovski?_t=8qQXHUhc4xi&_r=1
 
+A mogli biste i da uđete u moje super kul grupe!😎
+
+Viber grupa: https://invite.viber.com/?g2=AQAeJOUzeKC6fE0S2yGiaDoSNKzbVBsCsKgK0L0Aqwly6a9xIaPGkbYzUsVA%2Fp8b 
+
+Discord server: https://discord.gg/Xr8K6eGfyR
+
 P. S. - Serb Games u nedelju u 3😉
