@@ -30,14 +30,5 @@ A mogli biste i da uđete u moje super kul grupe!😎
 Viber grupa: https://invite.viber.com/?g2=AQAeJOUzeKC6fE0S2yGiaDoSNKzbVBsCsKgK0L0Aqwly6a9xIaPGkbYzUsVA%2Fp8b 
 
 Discord server: https://discord.gg/Xr8K6eGfyR
-ㅤ 
-ㅤ 
-ㅤ 
-ㅤ 
-ㅤ 
-ㅤ 
-ㅤ 
-ㅤ 
-ㅤ 
-ㅤ 
+
 P. S. - Serb Games u nedelju u 3😉
