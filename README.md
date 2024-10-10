@@ -16,5 +16,5 @@ Ovo je lista svih opcija:
 7. Tajni screenshot - niko neće znati da ste screenshotovali nešto kada su uključene nestajuće. poruke.
 8. Tajno kucanje - niko neće znati kada kucate.
 9. Random spam režim - brzo i lako spamujte nasumičan tekst.
-10. Superadmin simulator - naslov sve govori.
-11. Serb Games - 😉
+
+Podržite moj rad tako što ćete me zapratiti na svim mogućim socijalno društvenim mrežama!😃
