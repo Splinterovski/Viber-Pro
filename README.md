@@ -1,5 +1,7 @@
 📢OBAVEŠTENJE📢
-Viber Pro će biti objavljen u javnost samo ako moj YouTube kanal dostigne 10k subskrajbera!
+Viber Pro će biti objavljen u javnost ako i samo ako moj YouTube kanal dostigne 10k subskrajbera!
+Link za subskrajz:
+https://youtube.com/@splinter_packovski
 
 ⚠️UPOZORENJE⚠️
 Da biste instalirali Viber Pro morate prvo obrisati originalni Viber sa Google Playa. Istorija ćaskanja se NE MOŽE preneti sa originalnog na modovani Viber i obrnuto!
