@@ -1,6 +1,6 @@
 📢OBAVEŠTENJE📢
 Viber Pro će biti objavljen u javnost ako i samo ako moj YouTube kanal dostigne 10k subskrajbera!
-Link za subskrajz:
+Link:
 https://youtube.com/@splinter_packovski
 
 ⚠️UPOZORENJE⚠️
