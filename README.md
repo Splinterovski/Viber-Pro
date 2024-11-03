@@ -13,7 +13,9 @@ Ovo je lista svih opcija koje vam Viber Pro nudi:
 4. Vidite obrisane poruke na neko vreme u kanalima!
 5. Vidite obrisane poruke u na neko vreme u komentarima!
 6. Vidite istoriju izmene poruke! Poruka mora biti primljena da bi se videla istorija izmene.
-3. Onemogućene reklame u aplikaciji!
+7. Onemogućene reklame u aplikaciji!
+
+**Samo**
 
 Podržite moj rad tako što ćete me zapratiti na svim mogućim socijalno društvenim mrežama!😃
 
