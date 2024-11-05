@@ -6,15 +6,16 @@ Nakon što preuzmete Viber_Pro.zip otvorite ga i u njemu ćete videti Viber_Pro.
 
 Ovo je lista svih opcija koje vam Viber Pro nudi:
 1. Vidite obrisane poruke u privatnim i grupnim chatovima!
+
 2. Vidite poruke koje su obrisane bez traga u privatnim i grupnim chatovima!
-3. Vidite obrisane poruke na neko vreme u zajednicama!
-4. Vidite obrisane poruke na neko vreme u kanalima!
-5. Vidite obrisane poruke u na neko vreme u komentarima!
 
-(**Samo** tekstualne, slikovne i video poruke su označene sa "**Obrisano🚫**")
+3. Vidite obrisane poruke na neko vreme u kanalima, zajednicama i komentarima!
 
-6. Vidite istoriju izmene poruke! Poruka mora biti primljena da bi se videla istorija izmene.
-7. Onemogućene reklame u aplikaciji!
+4. Vidite istoriju izmene poruke! Poruka mora biti primljena da bi se videla istorija izmene.
+
+5. Onemogućene reklame u aplikaciji!
+
+(**Samo** tekstualne, slikovne i video poruke su označene sa "**Obrisano🚫**" ili "**Obrisano bez traga🚫✨️**")
 
 Podržite moj rad tako što ćete me zapratiti na svim mogućim socijalno društvenim mrežama!😃
 
