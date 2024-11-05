@@ -7,8 +7,8 @@ Nakon što preuzmete Viber_Pro.zip otvorite ga i u njemu ćete videti Viber_Pro.
 Viber Pro je modovani klijent Viber aplikacije sa dodatnim mogućnostima koje vam obični Viber ne nudi.
 
 Ovo je lista svih opcija koje vam Viber Pro nudi:
-1. Vidite obrisane poruke u privatnim chatovima!
-2. Vidite obrisane poruke u grupnim chatovima!
+1. Vidite obrisane poruke u privatnim i grupnim chatovima!
+2. Vidite poruke koje su obrisane bez traga u privatnim i grupnim chatovima!
 3. Vidite obrisane poruke na neko vreme u zajednicama!
 4. Vidite obrisane poruke na neko vreme u kanalima!
 5. Vidite obrisane poruke u na neko vreme u komentarima!
