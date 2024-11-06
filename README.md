@@ -15,7 +15,7 @@ Ovo je lista svih opcija koje vam Viber Pro nudi:
 
 5. Onemogućene reklame u aplikaciji!
 
-(**Samo** tekstualne, slikovne i video poruke su označene sa "**Obrisano🚫**" ili "**Obrisano bez traga🚫✨️**")
+(**Samo** tekstualne, slikovne i video poruke su označene sa "Obrisano🚫" ili "Obrisano bez traga🚫✨️")
 
 Podržite moj rad tako što ćete me zapratiti na svim mogućim socijalno društvenim mrežama!😃
 
