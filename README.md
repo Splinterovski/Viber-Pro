@@ -1,3 +1,4 @@
+![ViberProLogo](https://github.com/user-attachments/assets/c98e0110-4221-467c-81bb-8b87c4b48348)
 ⚠️**UPOZORENJE**⚠️
 Da biste instalirali Viber Pro morate prvo obrisati originalni Viber sa Google Playa. Istorija ćaskanja se **NE MOŽE** preneti sa originalnog na modovani Viber i obrnuto!
 
