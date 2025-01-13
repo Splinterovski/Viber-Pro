@@ -25,7 +25,7 @@ Lista svih **dodatnih** (mod meni) opcija koje vam Viber Pro nudi:
 
 3. Superadmin simulator - moći ćete da kucate bilo gde ali ne i da šaljete poruke
 
-4. Custom tema - izaberite boju Viber teksta na osnovu unetog hex koda³
+4. Custom tema - izaberite bilo koju boju Viber teksta na osnovu unetog hex koda³
 
 5. Serb Games privatni server.😀
 
