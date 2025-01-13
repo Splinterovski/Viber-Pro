@@ -33,7 +33,7 @@ Lista svih **dodatnih** (mod meni) opcija koje vam Viber Pro nudi:
 
 ²Poruke nestanu nakon nekog vremena
 
-³Hex Biraš Boje: https://g.co/kgs/HCc4zvy
+³Hex Birač Boje: https://g.co/kgs/HCc4zvy
 
 Podržite moj rad tako što ćete me zapratiti na svim mogućim socijalno društvenim mrežama!😃
 
