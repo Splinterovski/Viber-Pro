@@ -23,7 +23,7 @@ Lista svih **dodatnih** (mod meni) opcija koje vam Viber Pro nudi:
 
 2. Random spam režim - brzo i lako spamujte nasumični tekst
 
-3. Superadmin simulator - moći ćete da kucate ali ne i da šaljete poruke bilo gde
+3. Superadmin simulator - moći ćete da kucate bilo gde ali ne i da šaljete poruke
 
 4. Custom tema - izaberite boju Vibera na osnovu unetog hex koda²
 
