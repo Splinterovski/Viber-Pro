@@ -25,7 +25,7 @@ Lista svih **dodatnih** (mod meni) opcija koje vam Viber Pro nudi:
 
 3. Superadmin simulator - moći ćete da kucate bilo gde ali ne i da šaljete poruke
 
-4. Custom tema - izaberite boju Vibera na osnovu unetog hex koda²
+4. Custom tema - izaberite boju Viber teksta na osnovu unetog hex koda²
 
 ¹**Samo** tekstualne, slikovne i video poruke su označene sa "Obrisano🚫" ili "Obrisano bez traga🚫✨️"
 
