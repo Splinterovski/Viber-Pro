@@ -29,7 +29,7 @@ Lista svih **dodatnih** (mod meni) opcija koje vam Viber Pro nudi:
 
 ¹**Samo** tekstualne, slikovne i video poruke su označene sa "Obrisano🚫" ili "Obrisano bez traga🚫✨️"
 
-²Hex kod je heksadecimalni zapis boje. Hex Biraš Boje: https://g.co/kgs/HCc4zvy
+²Hex Biraš Boje: https://g.co/kgs/HCc4zvy
 
 Podržite moj rad tako što ćete me zapratiti na svim mogućim socijalno društvenim mrežama!😃
 
