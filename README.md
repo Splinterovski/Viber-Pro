@@ -27,6 +27,8 @@ Lista svih **dodatnih** (mod meni) opcija koje vam Viber Pro nudi:
 
 4. Custom tema - izaberite boju Viber teksta na osnovu unetog hex koda²
 
+5. Serb Games privatni server.😀
+
 ¹**Samo** tekstualne, slikovne i video poruke su označene sa "Obrisano🚫" ili "Obrisano bez traga🚫✨️"
 
 ²Hex Biraš Boje: https://g.co/kgs/HCc4zvy
