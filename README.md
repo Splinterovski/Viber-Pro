@@ -6,19 +6,20 @@ Da biste instalirali Viber Pro morate prvo obrisati originalni Viber sa Google P
 Nakon što preuzmete Viber_Pro.zip otvorite ga i u njemu ćete videti Viber_Pro.apk koji treba da instalirate...
 
 
-Ovo je lista svih opcija koje vam Viber Pro nudi:
+Ovo je lista svih integrisanih opcija koje vam Viber Pro nudi:
 
-1. Vidite obrisane poruke u privatnim i grupnim chatovima!
+1. Vidite obrisane poruke u privatnim i grupnim chatovima!¹
 
-2. Vidite poruke koje su obrisane bez traga u privatnim i grupnim chatovima!
+2. Vidite poruke koje su obrisane bez traga u privatnim i grupnim chatovima!¹
 
-3. Vidite obrisane poruke na neko vreme u kanalima, zajednicama i komentarima!
+3. Vidite obrisane poruke na neko vreme u kanalima, zajednicama i komentarima!¹
+
+¹(**Samo** tekstualne, slikovne i video poruke su označene sa "Obrisano🚫" ili "Obrisano bez traga🚫✨️")
 
 4. Vidite istoriju izmene poruke! Poruka mora biti primljena da bi se videla istorija izmene.
 
 5. Onemogućene reklame u aplikaciji!
 
-(**Samo** tekstualne, slikovne i video poruke su označene sa "Obrisano🚫" ili "Obrisano bez traga🚫✨️")
 
 Podržite moj rad tako što ćete me zapratiti na svim mogućim socijalno društvenim mrežama!😃
 
