@@ -19,6 +19,7 @@ Lista svih **integrisanih** opcija koje vam Viber Pro nudi:
 5. Onemogućene reklame u aplikaciji
 
 
+
 Lista svih **dodatnih** (mod meni) opcija koje vam Viber Pro nudi:
 
 Tajno kucanje - niko neće znati kada kucate
