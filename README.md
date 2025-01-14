@@ -4,13 +4,13 @@ Da biste instalirali Viber Pro morate prvo obrisati originalni Viber sa Google P
 
 Lista svih **integrisanih** opcija koje vam Viber Pro nudi:
 
-1. Vidite obrisane poruke u privatnim i grupnim chatovima¹
+1. Vidite obrisane poruke u privatnim i grupnim chatovima**¹**
 
-2. Vidite poruke koje su obrisane bez traga u privatnim i grupnim chatovima¹
+2. Vidite poruke koje su obrisane bez traga u privatnim i grupnim chatovima**¹**
 
-3. Vidite obrisane poruke na neko vreme u kanalima, zajednicama i komentarima²
+3. Vidite obrisane poruke u kanalima, zajednicama i komentarima**²**
 
-4. Vidite istoriju izmene poruke³
+4. Vidite istoriju izmene poruke**³**
 
 5. Onemogućene reklame u aplikaciji
 
@@ -22,7 +22,7 @@ Lista svih **dodatnih** (mod meni) opcija koje vam Viber Pro nudi:
 
 3. Superadmin simulator - moći ćete da pišete bilo gde ali ne i da šaljete poruke
 
-4. Custom tema - izaberite bilo koju boju Viber teksta na osnovu unetog hex koda⁴
+4. Custom tema - izaberite bilo koju boju Viber teksta na osnovu unetog hex koda**⁴**
 
 5. Serb Games privatni server.😀
 
