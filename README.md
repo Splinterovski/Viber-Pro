@@ -38,9 +38,9 @@ Podržite moj rad tako što ćete me zapratiti na svim mogućim socijalno društ
 
 YouTube: https://youtube.com/@splinter_packovski
 
-Instagram: https://www.instagram.com/splinterovski?igsh=YzljYTk1ODg3Zg==
+Instagram: https://www.instagram.com/splinterovski
 
-TikTok: https://www.tiktok.com/@splinter_packovski?_t=8qQXHUhc4xi&_r=1
+TikTok: https://www.tiktok.com/@splinter_packovski
 
 A mogli biste i da uđete u moj super kul Discord server!😎
 https://discord.gg/Xr8K6eGfyR
