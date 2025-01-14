@@ -26,13 +26,13 @@ Lista svih **dodatnih** (mod meni) opcija koje vam Viber Pro nudi:
 
 5. Serb Games privatni server.😀
 
-¹**Samo** tekstualne, slikovne i video poruke su označene sa "Obrisano🚫" ili "Obrisano bez traga🚫✨️"
+**¹Samo** tekstualne, slikovne i video poruke su označene sa "Obrisano🚫" ili "Obrisano bez traga🚫✨️"
 
-²Poruke nestanu nakon nekog vremena
+**²**Poruke nestanu nakon nekog vremena
 
-³Poruka mora biti primljena da bi se videla istorija izmene
+**³**Poruka mora biti primljena da bi se videla istorija izmene
 
-⁴Hex Birač Boje: https://g.co/kgs/HCc4zvy
+**⁴**Hex Birač Boje: https://g.co/kgs/HCc4zvy
 
 Podržite moj rad tako što ćete me zapratiti na svim mogućim socijalno društvenim mrežama!😃
 
