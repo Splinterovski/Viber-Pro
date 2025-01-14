@@ -10,7 +10,7 @@ Lista svih **integrisanih** opcija koje vam Viber Pro nudi:
 
 3. Vidite obrisane poruke na neko vreme u kanalima, zajednicama i komentarima²
 
-4. Vidite istoriju izmene poruke. Poruka mora biti primljena da bi se videla istorija izmene.
+4. Vidite istoriju izmene poruke³
 
 5. Onemogućene reklame u aplikaciji
 
@@ -20,9 +20,9 @@ Lista svih **dodatnih** (mod meni) opcija koje vam Viber Pro nudi:
 
 2. Random spam režim - brzo i lako spamujte nasumični tekst
 
-3. Superadmin simulator - moći ćete da kucate bilo gde ali ne i da šaljete poruke
+3. Superadmin simulator - moći ćete da pišete bilo gde ali ne i da šaljete poruke
 
-4. Custom tema - izaberite bilo koju boju Viber teksta na osnovu unetog hex koda³
+4. Custom tema - izaberite bilo koju boju Viber teksta na osnovu unetog hex koda⁴
 
 5. Serb Games privatni server.😀
 
@@ -30,7 +30,9 @@ Lista svih **dodatnih** (mod meni) opcija koje vam Viber Pro nudi:
 
 ²Poruke nestanu nakon nekog vremena
 
-³Hex Birač Boje: https://g.co/kgs/HCc4zvy
+³Poruka mora biti primljena da bi se videla istorija izmene
+
+⁴Hex Birač Boje: https://g.co/kgs/HCc4zvy
 
 Podržite moj rad tako što ćete me zapratiti na svim mogućim socijalno društvenim mrežama!😃
 
