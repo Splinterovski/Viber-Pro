@@ -45,4 +45,4 @@ TikTok: https://www.tiktok.com/@splinter_packovski
 A mogli biste i da uđete u moj super kul Discord server!😎
 https://discord.gg/Xr8K6eGfyR
 
-P. S. - Serb Games u subotu u 12😉
+P. S. - Serb Games u nedelju u 3😉
