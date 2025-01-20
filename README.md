@@ -22,7 +22,7 @@ Lista svih **dodatnih** (mod meni) opcija koje vam Viber Pro nudi:
 
 3. Superadmin simulator - moći ćete da pišete bilo gde ali ne i da šaljete poruke
 
-4. Custom tema - izaberite bilo koju boju Viber teksta!
+4. Custom tema - izaberite bilo koju boju Viber teksta
 
 5. Serb Games privatni server.😀
 
@@ -42,5 +42,8 @@ TikTok: https://www.tiktok.com/@splinter_packovski
 
 A mogli biste i da uđete u moj super kul Discord server!😎
 https://discord.gg/Xr8K6eGfyR
+
+Kontakt email:
+splinterpackovski@gmail.com
 
 P. S. - Serb Games u nedelju u 3😉
