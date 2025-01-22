@@ -46,4 +46,7 @@ https://discord.gg/Xr8K6eGfyR
 Kontakt email:
 splinterpackovski@gmail.com
 
+Kontakt Viber:
++381658550913
+
 P. S. - Serb Games u nedelju u 3😉
