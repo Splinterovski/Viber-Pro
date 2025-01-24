@@ -22,9 +22,7 @@ Lista svih **dodatnih** (mod meni) opcija koje vam Viber Pro nudi:
 
 3. Superadmin simulator - moći ćete da pišete bilo gde ali ne i da šaljete poruke
 
-4. Custom tema - izaberite bilo koju boju Viber teksta
-
-5. Serb Games privatni server.😀
+4. Serb Games privatni server.😀
 
 **¹Samo** tekstualne, slikovne i video poruke su označene sa "Obrisano🚫" ili "Obrisano bez traga🚫✨️"
 
