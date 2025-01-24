@@ -10,9 +10,11 @@ Lista svih **integrisanih** opcija koje vam Viber Pro nudi:
 
 3. Vidite obrisane poruke u kanalima, zajednicama i komentarima**²**
 
-4. Vidite istoriju izmene poruke**³**
+4. Zadržite poruke koje nestaju
 
-5. Onemogućene reklame u aplikaciji
+5. Vidite istoriju izmene poruke**³**
+
+6. Onemogućene reklame u aplikaciji
 
 Lista svih **dodatnih** (mod meni) opcija koje vam Viber Pro nudi:
 
