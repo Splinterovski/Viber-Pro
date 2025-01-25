@@ -49,5 +49,3 @@ Kontakt Viber:
 +381658550913
 
 P. S. - Serb Games u nedelju u 3😉
-
-[splinter.zip](https://github.com/user-attachments/files/18545039/splinter.zip)
