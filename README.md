@@ -25,7 +25,7 @@ Lista svih **dodatnih** (mod meni) opcija koje vam Viber Pro nudi:
 
 4. Serb Games privatni server.😀
 
-**¹Samo** tekstualne, slikovne i video poruke su označene sa "Obrisano🚫" ili "Obrisano bez traga🚫✨️", sve ostali tipovi poruka će se samo prikazivati bez ikakvog indikatora
+**¹Samo** tekstualne, slikovne i video poruke su označene sa "Obrisano🚫" ili "Obrisano bez traga🚫✨️", svi ostali tipovi poruka će se samo prikazivati bez ikakvog indikatora
 
 **²**Poruke nestanu nakon nekog vremena
 
